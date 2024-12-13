@@ -1,5 +1,7 @@
 # HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting
-This repository contains the code for the paper [HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting](https://gujiaqivadin.github.io/hybridgs/).
+This repository contains the code for the paper titled "HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting".
+
+[[paper](https://arxiv.org/abs/2412.03844)] [[project page](https://gujiaqivadin.github.io/hybridgs/)] [[code](https://github.com/Yeyuqqwx/HybridGS)] [[checkpoints](https://huggingface.co/Eto63277/HybridGS/tree/main)]
 ![](https://gujiaqivadin.github.io/hybridgs/static/images/1.jpg)
 Currently, only the inference part of the code is open sourced to demonstrate some implementation details and effects. The training part of the code is not open sourced yet.
 The current implementation is based on Taming-3DGS, gsplat and Gaussianimage, and more implementation details will be open sourced step by step in the future.
